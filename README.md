@@ -1,18 +1,30 @@
-# 👋 Hi, I'm AMDJAR Abdelwahid  
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Amdjar Abdelwahid</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-🎓 **Final-year Software Engineering Student** at **EMSI (École Marocaine des Sciences de l’Ingénieur)**  
-💻 **Specialization:** Computer Engineering & Networks  
-🚀 **Passionate about:** Full Stack Web Development, Software Design, and Cloud Technologies  
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Amdjar Abdelwahid | 💻 Software Engineering | 🛸 Morocco </h3>
+</div>
 
----
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+ <h3>I'm a 21-year-old Software Engineering from Morocco 🇲🇦</h3>
+</p>
 
-## 🧠 About Me
-- 🎯 Currently completing my final year at EMSI  
-- 💡 Always learning new technologies and improving my problem-solving skills  
-- 🌍 Interested in collaborating on open-source and real-world software projects  
-
----
-
+- 🎓 Final-year Software Engineering Student at <b>EMSI</b>  
+- 🧠 Currently learning <b>Spring Boot</b>  
+- 💻 Skilled in <i>Java, PHP, Python, and a bit of everything</i> ❤️  
+- 🚀 Passionate about <b>technology, innovation, and software design</b>  
+- 🌍 I love building meaningful digital experiences  
+- 🌌 Dreamer who believes in turning ideas into reality ✨  
+- 💡 All about growing, creating, and living life at its best.
+ 
+ 
+ 
 
 <br />
 
