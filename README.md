@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm AMDJAR Abdelwahid  
+
+🎓 **Final-year Software Engineering Student** at **EMSI (École Marocaine des Sciences de l’Ingénieur)**  
+💻 **Specialization:** Computer Engineering & Networks  
+🚀 **Passionate about:** Full Stack Web Development, Software Design, and Cloud Technologies  
+
+---
+
+## 🧠 About Me
+- 🎯 Currently completing my final year at EMSI  
+- 💡 Always learning new technologies and improving my problem-solving skills  
+- 🌍 Interested in collaborating on open-source and real-world software projects  
+
+---
 
 
-**Amdjar-Abdelwahid/Amdjar-Abdelwahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect with Me  
+💼 LinkedIn: [abdelwahid-amdjar ](https://www.linkedin.com/in/abdelwahid-amdjar/) 
+📧 Email: amdjarabdelwahid1@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
